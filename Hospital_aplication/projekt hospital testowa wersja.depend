@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1580470064 source:/home/bartek/Pulpit/wersja testowa/projekt hospital testowa wersja/main.cpp
+	<iostream>
+	<fstream>
+
+1580813011 source:/home/bartek/Pulpit/wersja testowa/Hospital_aplication/main.cpp
+	"functions.h"
+
+1580666307 /home/bartek/Pulpit/wersja testowa/Hospital_aplication/include/functions.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1580667639 source:/home/bartek/Pulpit/wersja testowa/Hospital_aplication/src/functions.cpp
+	"functions.h"
+	<string>
+
+1580667639 source:/home/bartek/Pulpit/Hospital_aplication/src/functions.cpp
+	"functions.h"
+	<string>
+
+1580666307 /home/bartek/Pulpit/Hospital_aplication/include/functions.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1581015158 source:/home/bartek/Pulpit/Hospital_aplication/main.cpp
+	"functions.h"
+
